@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1516885473 source:c:\users\user\desktop\cinema\classes.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<sstream>
+	<vector>
+	"classes.h"
+
+1516885651 c:\users\user\desktop\cinema\classes.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<sstream>
+	<vector>
+
+1516886364 source:c:\users\user\desktop\cinema\main.cpp
+	"classes.h"
+	"main.h"
+	"admin.h"
+	"user.h"
+	<iostream>
+	<vector>
+
+1516888208 source:c:\users\user\desktop\cinema\admin.cpp
+	"classes.h"
+	"main.h"
+	"admin.h"
+	"user.h"
+	<iostream>
+	<string>
+	<vector>
+
+1516886321 c:\users\user\desktop\cinema\main.h
+
+1516886599 c:\users\user\desktop\cinema\admin.h
+
+1516886117 c:\users\user\desktop\cinema\user.h
+	"classes.h"
+
+1516885989 source:c:\users\user\desktop\cinema\user.cpp
+	"classes.h"
+	"main.h"
+	"user.h"
+	<iostream>
+	<string>
+	<vector>
+
